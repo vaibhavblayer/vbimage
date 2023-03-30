@@ -1,2 +1,2 @@
 from .main import main
-main(prog_name="init-equation")
+main(prog_name="vbimage")

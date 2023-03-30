@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "vbimage"
-version = "0.1.21"
-description = "Replaced replaced command with layer which layers any color on full image where alpha is 255."
+version = "0.1.22"
+description = "Edited prog-name as vbimage"
 authors = ["vaibhavblayer <vaibhavblayer@gmail.com>"]
 readme = "README.md"
 
