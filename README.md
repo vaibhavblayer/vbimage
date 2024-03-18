@@ -26,3 +26,22 @@ Commands:
   render    Creates an image using given size and color.
   stack     Adds background to any transparent image
 ```
+
+### Subcommands Usage
+```
+vbimage grid -h
+```
+```
+Usage: vbimage grid [OPTIONS]
+
+  Adds background to any transparent image
+
+Options:
+  -i, --inputimage PATH           Front Image  [default: ./main.png]
+  -o, --outputimage PATH          Resized output image  [default:
+                                  ./main_grided.png]
+  -s, --step <INTEGER INTEGER>...
+                                  Number of division.  [default: 10, 10]
+  -S, --stroke_width INTEGER      Stroke width of the lines.  [default: 2]
+  -h, --help                      Show this message and exit.
+```
