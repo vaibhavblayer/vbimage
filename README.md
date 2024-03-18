@@ -7,6 +7,9 @@ pip install vbimage
 ```
 
 ### Usage
+```
+vbimage -h
+```
 
 ```
 Usage: vbimage [OPTIONS] COMMAND [ARGS]...
