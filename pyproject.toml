@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "vbimage"
-version = "0.1.22"
-description = "Edited prog-name as vbimage"
+version = "0.1.42"
+description = "Added contrast to increase the contrast of the image"
 authors = ["vaibhavblayer <vaibhavblayer@gmail.com>"]
 readme = "README.md"
 
